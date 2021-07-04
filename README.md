@@ -2,6 +2,7 @@
 
 # biegamzglowa
 > App for runners which calculate ACR ratio and helps improves running training.
+> NEW VERSION - old version (my first react app here https://przemek-szadkowski.github.io/biegamzglowa/)
 
 ## Table of contents
 * [Colors key](#colors-key)
@@ -46,7 +47,7 @@ It sums up kilometers from 4 week and then divide it by last week kilometers and
 To do:
 * fix up RWD and design on mobile devices
 
-Live demo https://przemek-szadkowski.github.io/biegamzglowa/
+Live demo https://przemek-szadkowski.github.io/biegam_z_glowa_final/
 
 ## Status
 Project is: finished
